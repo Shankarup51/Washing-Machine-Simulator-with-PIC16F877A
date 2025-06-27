@@ -71,7 +71,7 @@ This simulation demonstrates fundamental embedded systems concepts through:
 
 ## 📸 Demo
 
-Check out this **Demonstration Video** <a> google.com <a/> to see the Washing Machine Simulator in action, showcasing its real-time working.
+Check out this **Demonstration Video** (google.com) to see the Washing Machine Simulator in action, showcasing its real-time working.
 
 ---
 
